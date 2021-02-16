@@ -1,0 +1,11 @@
+{
+	"powerPlatformDLPdefinition": {
+		"displayName": "Personal Productivity DLP",
+		"defaultConnectorClassification": "Blocked",
+		"environmentType": "OnlyEnvironments",
+		"environmentsToInclude": ["Personal Productivity"],
+        "environmentsToExclude": [],
+		"businessConnectorsAllowed": ["Acumatica"],
+		"nonBusinessConnectorsAllowed": ["Act!"]
+    }
+}

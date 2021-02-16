@@ -1,0 +1,11 @@
+{
+	"powerPlatformDLPdefinition": {
+		"displayName": "Blanket DLP",
+		"defaultConnectorClassification": "Blocked",
+		"environmentType": "ExceptEnvironments",
+		"environmentsToInclude": [],
+        "environmentsToExclude": ["Personal Productivity"],
+		"businessConnectorsAllowed": [],
+		"nonBusinessConnectorsAllowed": []
+    }
+}
